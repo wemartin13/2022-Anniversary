@@ -1,0 +1,18 @@
+img {
+    display: block;
+    margin-right: auto;
+    height:100%;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+    width: 150px;
+}
+p {
+    color: orange;
+    font-weight: bold;
+   
+}
+h1{
+    color: green;
+}
